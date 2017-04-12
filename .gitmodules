@@ -1,0 +1,3 @@
+[submodule "genericSubmodule"]
+	path = genericSubmodule
+	url = https://github.com/doJester13/genericSubmodule.git
